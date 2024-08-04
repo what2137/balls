@@ -1,6 +1,5 @@
 # Blender 4.2.0
 # www.blender.org
-mtllib z-10.mtl
 o z10_reference
 v -39.445042 0.281002 -83.160606
 v -42.084373 6.774635 -100.190689
